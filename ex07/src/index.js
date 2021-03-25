@@ -5,6 +5,7 @@ const range = {
     num2: 88.8,
     avarage: 45.325
   };
+  
   const middle = ({ max, min }) => {
     return (max + min) / 2.0;
   };
