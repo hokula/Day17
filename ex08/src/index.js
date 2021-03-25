@@ -49,6 +49,7 @@ function findUser(lastName, gender) {
         return error;
     }
 }
+
 getUsers();
 findUser("Winslet", "female");
 
